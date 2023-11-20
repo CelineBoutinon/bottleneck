@@ -1,4 +1,4 @@
-![logo](https://github.com/CelineBoutinon/bottleneck/assets/143210563/abea76e3-ac23-4513-bff5-a09c06cec77d)
+![logo](https://github.com/CelineBoutinon/bottleneck/assets/143210563/23947708-df99-407f-a3b2-ff36d9276554)
 
 
 
