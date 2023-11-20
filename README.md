@@ -1,5 +1,5 @@
+![logo](https://github.com/CelineBoutinon/bottleneck/assets/143210563/abea76e3-ac23-4513-bff5-a09c06cec77d)
 
-![Alt text](logo-1.PNG)
 
 
 # OPTIMISER LA GESTION DES DONNEES D'UNE BOUTIQUE AVEC PYTHON
