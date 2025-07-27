@@ -4,7 +4,7 @@
 
 # OPTIMISER LA GESTION DES DONNEES D'UNE BOUTIQUE AVEC PYTHON
 
-Projet realisé en février 2023 dans le cadre de ma formation Data Analyst avec OpenClassrooms.
+Projet realisé en février 2023 dans le cadre de ma formation Data Analyst avec l'ENSAE-ENSAI Formation Continue (Cepe)/OpenClassrooms.
 
 ## Objectif du projet
 
